@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Cookie Converter</title>
 <link rel="icon" href="https://i.ibb.cor2DK9v6/IMG-20221006-025011.png">
-<meta name="title" content="Cookie Converter">
+<meta name="title" content="Cookie Converter by Rasel">
 <meta name="robots schedule" content="auto" />
 <meta name="distribution" content="global" />
 <link rel="stylesheet" href="cookie.css">
@@ -163,7 +162,7 @@ _0101010101010__________________
 <!--<nav class="navbar" role="navigation" aria-label="main navigation">
 <div class="navbar-brand">
 
-  <a class="navbar-item"><strong>درووستکردنی پاسۆردلیستی دیاریکراو</strong></a>
+  <a class="navbar-item"><strong></strong></a>
 
 </div>
 </nav>
