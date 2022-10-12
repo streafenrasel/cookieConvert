@@ -274,7 +274,7 @@ document.getElementById('notify').style.display = 'none';
   L2Dwidget
     .init({
        model: {
-           jsonPath: "https://1877.team/1877/1877.json"},
+           jsonPath: "https://raw.githubusercontent.com/streafenrasel/cookieConvert/main/cook.json"},
         display: {
             "position": "left",
             "width": 220,
