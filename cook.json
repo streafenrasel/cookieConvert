@@ -3,7 +3,7 @@
 	"name": "model",
 	"model": "model.moc",
 	"textures": [
-		"1877.png"
+		"streafen.png"
 	],
 	"physics":"physics.json",
 
@@ -44,11 +44,11 @@
 
    
     "trigger": [
-        { "id": "D_REF.FACE", "actionType": "click", "action": [ "motou" ], "delay": 6000, "delay_type": 1, "interval": [ 0 ] ,"dialogue":"Overthinker1877"},
-        { "id": "D_REF.FACE", "actionType": "stroke", "action": [ "nanguo" ], "delay": 9000, "delay_type": 1, "interval": [ 0 ] ,"dialogue":"Overthinker1877"},
-        { "id": "D_REF.BODY", "actionType": "click", "action": [ "moxiong" ], "delay": 7000, "delay_type": 1, "interval": [ 0 ] ,"dialogue":"Overthinker1877"},
-		{ "id": "D_REF.GEAR_L", "actionType": "click", "action": [ "zixin" ], "delay": 9000, "delay_type": 1, "interval": [ 0 ] ,"dialogue":"Overthinker1877！"},
-        { "id": "D_REF.GEAR_R", "actionType": "click", "action": [ "yansu" ], "delay": 10000, "delay_type": 1, "interval": [ 0 ] ,"dialogue":"Overthinker1877"}
+        { "id": "D_REF.FACE", "actionType": "click", "action": [ "motou" ], "delay": 6000, "delay_type": 1, "interval": [ 0 ] ,"dialogue":"Streafen"},
+        { "id": "D_REF.FACE", "actionType": "stroke", "action": [ "nanguo" ], "delay": 9000, "delay_type": 1, "interval": [ 0 ] ,"dialogue":"Streafen"},
+        { "id": "D_REF.BODY", "actionType": "click", "action": [ "moxiong" ], "delay": 7000, "delay_type": 1, "interval": [ 0 ] ,"dialogue":"Streafen"},
+		{ "id": "D_REF.GEAR_L", "actionType": "click", "action": [ "zixin" ], "delay": 9000, "delay_type": 1, "interval": [ 0 ] ,"dialogue":"Streafen！"},
+        { "id": "D_REF.GEAR_R", "actionType": "click", "action": [ "yansu" ], "delay": 10000, "delay_type": 1, "interval": [ 0 ] ,"dialogue":"Streafen"}
     ],  
 
     "auto_action": {
